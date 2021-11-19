@@ -1,0 +1,6 @@
+module Pods_dopasiletskiyPW6 {
+  umbrella header "Pods-dopasiletskiyPW6-umbrella.h"
+
+  export *
+  module * { export * }
+}
